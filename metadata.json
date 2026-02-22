@@ -1,0 +1,9 @@
+{
+  "name": "ILLUMINATI ERP SOFTWARE",
+  "description": "A comprehensive cloud-based ERP tailored for construction and real estate development, featuring AI-powered insights, multi-company support, and robust module management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
